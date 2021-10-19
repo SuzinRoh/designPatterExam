@@ -1,6 +1,0 @@
-package designPatternStudy.patterns.builder;
-
-public class Text {
-	private String text;
-	
-}
