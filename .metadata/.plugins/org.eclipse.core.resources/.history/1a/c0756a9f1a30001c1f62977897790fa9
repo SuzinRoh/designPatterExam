@@ -1,0 +1,11 @@
+package designPatternStudy.patterns.builder;
+
+public class Text {
+	private String text;
+
+	@Override
+	public String toString() {
+		return textl
+	}
+	
+}

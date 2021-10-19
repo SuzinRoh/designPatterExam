@@ -1,0 +1,8 @@
+package designPatternStudy.patterns.builder;
+
+public class BuilderMain {
+
+	public static void main(String [] args) {
+		System.out.println("hello world");
+	}
+}

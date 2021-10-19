@@ -1,0 +1,21 @@
+package designPatternStudy.patterns.builder;
+
+/**
+ * text 의 내용을 구현해줄 builder exam
+ * 
+ * @author sujin
+ * @since 2021.10.18 PM22:54
+ */
+public class Builder {
+	
+	private String title;
+	private String content;
+	private String[] items;
+	
+	//create setter 
+	public Builder setTitle(String title) {
+		this.title = title;
+		return this;
+	}
+	
+}

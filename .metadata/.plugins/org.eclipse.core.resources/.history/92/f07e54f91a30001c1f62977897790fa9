@@ -1,0 +1,10 @@
+package designPatternStudy.patterns.builder;
+
+public class Builder {
+	
+	private String title;
+	private String content;
+	private String[] items;
+	
+	
+}
