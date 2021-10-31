@@ -1,4 +1,4 @@
-# designPatterExam
-java design pattern example in infren
+## デザインパターン例
+### designPatterExam
 
 --
